@@ -20,4 +20,4 @@ and this is a bulleted list
 - last bullet
 
 And this is a link to an image
-![some alt text](useby.gif)
+![some alt text](UseBy.gif)
