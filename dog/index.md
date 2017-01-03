@@ -19,3 +19,5 @@ and this is a bulleted list
 + bullet 2
 - last bullet
 
+And this is a link to an image
+![some alt text](/images/logo.png)
