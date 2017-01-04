@@ -5,7 +5,7 @@ title: DOG
 # Deviation permit origination GUI   
 DOG is designed to *italic* or **bold** 
 
-## this is a headi
+## this is a heading 2
 
 and this is a numbered list
 
